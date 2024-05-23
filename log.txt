@@ -1,0 +1,5 @@
+Time Spent - 5 hours 25 minutes
+
+Took some time since i had to read the pygame docs to learn how to use the library to create windows and stuff.
+The only hard part was to implement the snake extending. I knew that i had to save the previous position of the segments and update the previous
+segments based on that but for some reason i was messing around with it in a different way.
